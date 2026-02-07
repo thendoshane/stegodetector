@@ -1,0 +1,1 @@
+export const API_BASE = "https://stego-backend-755152818329.africa-south1.run.app";
